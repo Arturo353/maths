@@ -6,5 +6,6 @@ function restar(a, b) {
   return a - b;
 }
 
-sumar(5, 3);
-restar(10,4);
+sumar(52, 3);
+restar(102,4);
+/// asdasddasda
